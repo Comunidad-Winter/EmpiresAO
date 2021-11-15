@@ -1,0 +1,99 @@
+[INIT]
+
+NumEscudos=17
+
+[ESC1]
+Dir1=4727 'norte
+Dir2=4729
+Dir3=4726
+Dir4=4728 'sur
+
+[ESC3]
+Dir1=13709 'norte
+Dir2=13711
+Dir3=13708
+Dir4=13710 'sur
+
+[ESC4]
+Dir1=13735 'norte
+Dir2=13737
+Dir3=13734
+Dir4=13736 'sur
+
+[ESC5]
+Dir1=13761 'norte
+Dir2=13763
+Dir3=13760
+Dir4=13762 'sur
+
+[ESC6]
+Dir1=13787 'norte
+Dir2=13789
+Dir3=13786
+Dir4=13788 'sur
+
+[ESC7]
+Dir1=13813 'norte
+Dir2=13815
+Dir3=13812
+Dir4=13814 'sur
+
+[ESC8]
+Dir1=13839 'norte
+Dir2=13841
+Dir3=13838
+Dir4=13840 'su
+
+[ESC9]
+Dir1=13865 'norte
+Dir2=13867
+Dir3=13864
+Dir4=13866 'su
+
+[ESC10]
+Dir1=13891 'norte
+Dir2=13893
+Dir3=13890
+Dir4=13892 'su
+
+[ESC11]
+Dir1=13917 'norte
+Dir2=13919
+Dir3=13916
+Dir4=13918 'su
+
+[ESC12]
+Dir1=13943 'norte
+Dir2=13945
+Dir3=13942
+Dir4=13944 'su
+
+[ESC13]
+Dir1=13969 'norte
+Dir2=13971
+Dir3=13968
+Dir4=13970 'su
+
+[ESC14]
+Dir1=13995 'norte
+Dir2=13997
+Dir3=13994
+Dir4=13996 'su
+
+[ESC15]
+Dir1=14990 'norte escudo de hierro
+Dir2=14992
+Dir3=14989
+Dir4=14991 'sur
+
+[ESC16]
+Dir1=15016 'norte Real
+Dir2=15018
+Dir3=15015
+Dir4=15017 'sur
+
+[ESC17]
+Dir1=15131 'norte tortuga
+Dir2=15133
+Dir3=15130
+Dir4=15132 'sur

@@ -1,0 +1,44 @@
+
+:::::::::::::::::::::::  Servidor Mod Empires AO :::::::::::::::::::                       
+                         Mithrandir - Uasu Foros
+
+:::::::::::::::::::::::     www.uasuforos.com    :::::::::::::::::::
+
+
+--------------------------
+Cambios realizados por mi:
+--------------------------
+
+-Se agregó la jerarquía administrador.
+-Cambie los nombres de: (Por minúscula, y consejo de la Luz)
+*CIUDADANO
+*CRIMINAL
+*CONSEJO DE BANDERBILL
+*CONSEJO DE LAS SOMBRAS
+-Al hacer click en un GameMaster, nos dice su respectivo rango.
+-Agrege un buscador de Items, /BUSCAR Nombre.
+-Cuenta regresiva disponible con el comando /CR.
+-Comando /DARORO para realizar transferencias.
+-Agregado un ¡Level Up! al pasar el nivel.
+-Sistema de Screenshots.
+-GameMaster se equipan todo.
+-No nos paralizamos solo.
+-Le puse el fondo al FrmMain del cliente, pueden sacarselo si desean.
+-Los consejeros pueden atacar y agarrar items.
+-Agregado Nivel Mínimo para utilizar item. (Minlvl= Nivel necesario)
+-¡Nivel máximo!en FrmMain.
+
+Y sinceramente nada más, ya que no queria realizar demasiados cambios,
+puede que no le gusten algunos haci que seleccione cosa simples y que
+no molesten. =D
+
+Si usted tiene este cliente, la guía que ha venido junto a estos
+archivos, le seran utiles para el cambio de IP.
+
+Aclaración: El servidor ya esta configurado, unicamente usted tiene
+que configurar su dirección de IP del cliente. Ambos códigos estan compilados.
+
+
+Atte Mithrandir - Uasu Foros
+
+

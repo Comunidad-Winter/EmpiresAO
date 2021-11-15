@@ -1,0 +1,12 @@
+[MAPA54]
+Name=Castillo Norte
+MusicNum=11
+StartPos=0-0-0
+PK=0
+Terreno=BOSQUE
+Zona=CIUDAD
+Restringir=No
+AmbNum=77
+MagiaSinefecto=0
+NoEncriptarMP=0
+BackUp=0

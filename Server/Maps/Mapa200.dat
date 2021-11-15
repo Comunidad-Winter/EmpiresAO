@@ -1,0 +1,15 @@
+[MAPA30]
+Name=Nix
+MusicNum=28
+MagiaSinefecto=0
+NoEncriptarMP=0
+Terreno=BOSQUE
+Zona=CIUDAD
+Restringir=No
+BackUp= 1
+Pk=1
+[MAPA200]
+MagiaSinefecto=0
+NoEncriptarMP=0
+BackUp= 0
+Pk=0

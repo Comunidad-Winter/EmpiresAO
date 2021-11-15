@@ -1,0 +1,11 @@
+[mapa37]
+Name=Newbie Dungeon
+MusicNum=26
+StartPos=0-0-0
+PK=1
+Terreno=BOSQUE
+Zona=DUNGEON
+Restringir=Si
+MagiaSinefecto=0
+NoEncriptarMP=1
+BackUp=0

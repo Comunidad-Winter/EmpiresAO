@@ -1,0 +1,11 @@
+[mapa28]
+Name=Desierto
+MusicNum=30
+StartPos=0-0-0
+PK=0
+Terreno=DESIERTO
+Zona=CAMPO
+Restringir=No
+MagiaSinefecto=0
+NoEncriptarMP=0
+BackUp=0

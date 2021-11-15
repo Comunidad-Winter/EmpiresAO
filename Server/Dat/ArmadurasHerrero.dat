@@ -1,0 +1,158 @@
+[INIT]
+NumArmaduras=52
+
+[Armadura1] ' Cota mallas
+Index=359
+
+[Armadura2] ' Armadura placas 
+Index=195
+
+[Armadura3] ' Armadura placas + 1
+Index=390
+
+[Armadura4] ' Armadura placas + 2
+Index=391
+
+[Armadura5] ' Armadura placas enanos
+Index=243
+
+[Armadura6] ' Armadura placas enanos + 1
+Index=392
+
+[Armadura7] ' Armadura placas enanos + 2
+Index=393
+
+[Armadura8] ' Escudo hierro
+Index=128
+
+[Armadura9] ' Escudo imperial
+Index=133
+
+[Armadura10] ' Escudo de tortuga
+Index=404
+
+[Armadura11] ' Casco de plata
+Index=405
+
+[Armadura12] ' Armadura dragon
+Index=481
+
+[Armadura13] ' Armadura dragon mujer
+Index=482
+
+[Armadura14] ' Armadura dragon raza enana
+Index=483
+
+[Armadura15] ' Armadura Herrero
+Index=484
+
+[Armadura16] ' Armadura legendaria
+Index=485
+
+[Armadura17] ' Dama de las tinieblas
+Index=487
+
+[Armadura18] ' Placas azúl
+Index=489
+
+[Armadura19] ' Infernal
+Index=494
+
+[Armadura20] ' Placas roja
+Index=493
+
+[Armadura21] ' Escarlata
+Index=495
+
+[Armadura22] ' Cienaga
+Index=496
+
+[Armadura23] ' Placas gala
+Index=497
+
+[Armadura24] ' Malefica
+Index=498
+
+[Armadura25] ' Cota mallas
+Index=499
+
+[Armadura26] ' Bruñida
+Index=500
+
+[Armadura27] ' Tunica de Luz
+Index=583
+
+[Armadura28] ' Tunica de Las Sombras
+Index=584
+
+[Armadura29] ' Armadura de Tor
+Index=586
+
+[Armadura30] ' Armadura de Placas de Oro
+Index=587
+
+[Armadura31] ' Armadura de Placas de Oro Enano
+Index=588
+
+[Armadura32] ' Tunica Naranja
+Index=589
+
+[Armadura33] ' Tunica Azul
+Index=589
+
+[Armadura34] ' Tunica Gris
+Index=590
+
+[Armadura35] ' Escudo de Estrella
+Index=619
+
+[Armadura36] ' Escudo de Oro
+Index=621
+
+[Armadura37] ' Escudo de Los Dioses
+Index=622
+
+[Armadura38] ' Escudo Inka
+Index=624
+
+[Armadura39] ' Escudo de Dragon
+Index=625
+
+[Armadura40] ' Escudo Celeste
+Index=626
+
+[Armadura41] ' Escudo de Banderbill
+Index=627
+
+[Armadura42] ' Escudo de Efestion
+Index=628
+
+[Armadura43] ' Casco Infernal
+Index=634
+
+[Armadura44] ' Casco Imperial
+Index=635
+
+[Armadura45] ' Casco de Heroe
+Index=635
+
+[Armadura46] ' Casco Imperial Reforzado
+Index=637
+
+[Armadura47] ' Casco de Oro
+Index=638
+
+[Armadura48] ' Anillo Mágico
+Index=630
+
+[Armadura49] ' Super Anillo Mágico
+Index=631
+
+[Armadura50] ' Colgante Mágico
+Index=632
+
+[Armadura51] ' Super Colgante Mágico
+Index=633
+
+[Armadura52] ' Anillo Mágico Novato
+Index=671

@@ -1,0 +1,134 @@
+[INIT]
+NumArmas=20
+
+[Arma1]
+Dir1=4719 'norte
+Dir2=4721
+Dir3=4718
+Dir4=4720 'sur
+
+[Arma3]
+Dir1=4723 'norte
+Dir2=4725
+Dir3=4722
+Dir4=4724 'sur
+
+'Garrote
+[ARMA4]
+Dir1=10269
+Dir2=10271
+Dir3=10268
+Dir4=10270
+
+'Cimitarra
+[ARMA5]
+Dir1=10295
+Dir2=10297
+Dir3=10294
+Dir4=10296
+
+'Vara de mago
+[ARMA6]
+Dir1=10321
+Dir2=10323
+Dir3=10320
+Dir4=10322
+
+'Arco
+[ARMA7]
+Dir1=10467
+Dir2=10469
+Dir3=10466
+Dir4=10468
+
+'Espada de fuego
+[ARMA8]
+Dir1=13553
+Dir2=13555
+Dir3=13552
+Dir4=13554
+
+'Espada de Amatista
+[ARMA9]
+Dir1=13579
+Dir2=13581
+Dir3=13578
+Dir4=13580
+
+'Espada Roja
+[ARMA10]
+Dir1=13605
+Dir2=13607
+Dir3=13604
+Dir4=13606
+
+'Espada de Hielo
+[ARMA11]
+Dir1=13631
+Dir2=13633
+Dir3=13630
+Dir4=13632
+
+'Espada de Diamantes
+[ARMA12]
+Dir1=13657
+Dir2=13659
+Dir3=13656
+Dir4=13658
+
+'Espada de Oro
+[ARMA13]
+Dir1=13683
+Dir2=13685
+Dir3=13682
+Dir4=13684
+
+'daga
+[ARMA14]
+Dir1=15105
+Dir2=15107
+Dir3=15104
+Dir4=15106
+
+'espada de plata
+[ARMA15]
+Dir1=15079
+Dir2=15081
+Dir3=15078
+Dir4=15080
+
+'martillo de guerra
+[ARMA16]
+Dir1=14964
+Dir2=14966
+Dir3=14963
+Dir4=14965
+
+'hacha doble filo
+[ARMA17]
+Dir1=14938
+Dir2=14940
+Dir3=14937
+Dir4=14939
+
+'lanza
+[ARMA18]
+Dir1=14912
+Dir2=14914
+Dir3=14911
+Dir4=14913
+
+'hacha
+[ARMA19]
+Dir1=15183
+Dir2=15185
+Dir3=15182
+Dir4=15184
+
+'horquilla
+[ARMA20]
+Dir1=15157
+Dir2=15159
+Dir3=15156
+Dir4=15158
+

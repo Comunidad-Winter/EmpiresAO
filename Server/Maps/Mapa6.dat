@@ -1,0 +1,11 @@
+[mapa6]
+Name=Bosque Élfico
+MusicNum=14
+StartPos=0-0-0
+PK=0
+Terreno=BOSQUE
+Zona=CAMPO
+Restringir=No
+MagiaSinefecto=0
+NoEncriptarMP=0
+BackUp=0

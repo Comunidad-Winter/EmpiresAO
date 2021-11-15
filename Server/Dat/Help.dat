@@ -1,0 +1,10 @@
+[INIT]
+NumLines=5
+
+[Help]
+Line1=Comandos básicos de EmpiresAo:
+Line2=(Caminar = Flechas).
+Line3=(Hablar = Tipear y luego ENTER) (Gritar = -Mensaje).
+Line4=(Mensaje privado = \nombre_usuario mensaje).
+Line5=(Atacar = CONTROL) (Llamar a un GM /GM AYUDA).
+Line6=Más información en www.empiresao.com.ar o en los foros.

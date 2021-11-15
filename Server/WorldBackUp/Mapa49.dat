@@ -1,0 +1,10 @@
+[Mapa49]
+Name=Cueva de los Sabios
+MusicNum=19
+MagiaSinefecto=1
+StartPos=0-0-0
+Terreno=BOSQUE
+Zona=DUNGEON
+Restringir=No
+BackUp= 1
+Pk=1

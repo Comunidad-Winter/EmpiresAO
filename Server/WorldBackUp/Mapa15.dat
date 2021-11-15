@@ -1,0 +1,10 @@
+[Mapa15]
+Name=Hobitton
+MusicNum=8
+MagiaSinefecto=0
+StartPos=0-0-0
+Terreno=BOSQUE
+Zona=CAMPO
+Restringir=No
+BackUp= 1
+Pk=1

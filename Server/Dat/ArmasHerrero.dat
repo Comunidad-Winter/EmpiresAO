@@ -1,0 +1,96 @@
+[INIT]
+NumArmas=31
+
+[Arma1]
+Index=15
+
+[Arma2]
+Index=165
+
+[Arma3]
+Index=365
+
+[Arma4]
+Index=366
+
+[Arma5]
+Index=367
+
+[Arma6]
+Index=187
+
+[Arma7]
+Index=198
+
+[Arma8]
+Index=164
+
+[Arma9]
+Index=2
+
+[Arma10]
+Index=125
+
+[Arma11]
+Index=19
+
+[Arma12]
+Index=123
+
+[Arma13]
+Index=124
+
+[Arma14]
+Index=127
+
+[Arma15]
+Index=3
+
+[Arma16]
+Index=159
+
+[Arma17]
+Index=126
+
+[Arma18]
+Index=129
+
+[Arma19]
+Index=399
+
+[Arma20]
+Index=401
+
+[Arma21]
+Index=402
+
+[Arma22]
+Index=403
+
+[Arma23]
+Index=400
+
+[Arma24] 'Espada de oro
+Index=613
+
+[Arma25] 'Baculo Mistico
+Index=612
+
+[Arma26] 'Daga Ensangrentada
+Index=738
+
+[Arma27] 'Espada de los Dioses
+Index=611
+
+[Arma28] 'Espada del Fenix
+Index=608
+
+[Arma29] 'Espada de Heroe
+Index=605
+
+[Arma30] 'Espada De Hielo
+Index=601
+
+[Arma31] 'Espada Escarlata
+Index=600
+
