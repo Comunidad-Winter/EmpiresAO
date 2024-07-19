@@ -100,3 +100,10 @@ Call SendData(SendTarget.ToIndex, UserIndex, 0, "ERRSu cuenta ha sido creada sat
 ```
 
 Entonces, con esto evitamos los envio de e-mails, y podrán obtener su código de verificación al crear la cuenta.
+
+## NOTA
+
+Este servidor tiene una cuenta creada de pruebas:
+
+* Nombre: Betatester
+* Contraseña: 123456
